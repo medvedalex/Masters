@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.2)  10 APR 2013 14:20
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.2)  10 APR 2013 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -580,76 +580,41 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-! Undefined control sequence.
-l.316 ...| f(x_t, \vec{p}) - y_t \right| ^ 2 \rarr
-                                                   min $
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[4]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 355.
-
-! Extra \fi.
-<recently read> \fi 
-                    
-l.362 ...чно-гладкую функцию $\fi
-                                                  (\vec{a}, \vec{b})$:
-I'm ignoring this; it doesn't match any \if.
-
-! Extra \fi.
-l.364 $ \fi
-           (\vec{a}, \vec{b}) = \left\{ {
-I'm ignoring this; it doesn't match any \if.
-
-! Extra \fi.
-<recently read> \fi 
-                    
-l.370 ...адратах для функции $\fi
-                                                  (\vec{a}, \vec{b})$ на �...
-I'm ignoring this; it doesn't match any \if.
-
-! Extra \fi.
-l.372 ...= \displaystyle\sum_{i=0}^N \left|1 - \fi
-                                                  (\vec{a}, \vec{b})\right|^...
-I'm ignoring this; it doesn't match any \if.
-
-[5] [6] [7] (./document.aux) ) 
+(Font)              <17.28> on input line 400.
+ [5] [6] [7] (./document.aux) ) 
 Here is how much of TeX's memory you used:
  2232 strings out of 494816
  26341 string characters out of 3177879
- 85201 words of memory out of 3000000
+ 86201 words of memory out of 3000000
  5413 multiletter control sequences out of 15000+200000
  18783 words of font info for 43 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  25i,6n,32p,867b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-t
-2a/lati1000.600pk> </home/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000.
-600pk> </home/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </hom
-e/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/msizov/.te
-xmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/msizov/.texmf-var/font
-s/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/msizov/.texmf-var/fonts/pk/ljfour/
-lh/lh-t2a/larm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mti7.pfb>
-Output written on document.pdf (7 pages, 245870 bytes).
+ </home/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-
+t2a/lati1000.600pk> </home/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000
+.600pk> </home/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </ho
+me/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/msizov/.t
+exmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/msizov/.texmf-var/fon
+ts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/msizov/.texmf-var/fonts/pk/ljfour
+/lh/lh-t2a/larm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmti7.pfb>
+Output written on document.pdf (7 pages, 249473 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
+ 444 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
