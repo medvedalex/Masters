@@ -1,15 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.2)  10 APR 2013 15:34
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.10.29)  11 APR 2013 20:08
 entering extended mode
- restricted \write18 enabled.
  %&-line parsing enabled.
 **document.tex
 (./document.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, bu
-lgarian, ukrainian, russian, loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, bulgarian, ukrainian, russian, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,36 +23,36 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
+(/usr/share/texmf-texlive/tex/latex/t2/mathtext.sty
 Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 111.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+(/usr/share/texmf-texlive/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 \symT2Aletters=\mathgroup4
 )
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+(/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -203,7 +202,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -234,7 +233,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -250,7 +249,7 @@ Now handling font encoding U ...
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
+(/usr/share/texmf-texlive/tex/latex/base/t2aenc.dfu
 File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -450,14 +449,14 @@ File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2008/07/08 v3.8m The Babel package
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/english.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
 Language: english 2005/03/30 v3.3o English support from the babel system
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2008/07/08 v3.8m Babel common definitions
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 )
@@ -467,7 +466,7 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/russianb.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/russianb.ldf
 Language: russianb 2008/03/21 v1.1r Russian support from the babel system
 Package babel Info: Making " an active character on input line 199.
 LaTeX Font Info:    Overwriting symbol font `T2Aletters' in version `bold'
@@ -477,23 +476,20 @@ LaTeX Font Info:    Overwriting math alphabet `\cyrmathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\cyrmathit' in version `bold'
 (Font)                  T2A/cmr/m/it --> T2A/cmr/bx/it on input line 283.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
 Package ifvtex Info: VTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
 \Gm@cntv=\count89
@@ -502,13 +498,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@wd@mp=\dimen105
 \Gm@odd@mp=\dimen106
 \Gm@even@mp=\dimen107
-\Gm@layoutwidth=\dimen108
-\Gm@layoutheight=\dimen109
-\Gm@layouthoffset=\dimen110
-\Gm@layoutvoffset=\dimen111
 \Gm@dimlist=\toks17
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+(/usr/share/texmf-texlive/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 ) (./document.aux)
 \openout1 = `document.aux'.
@@ -528,40 +520,47 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=483.69687pt
-* \textheight=731.23584pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 56.9055pt, 483.69687pt, 56.9055pt
+v-parts: 56.9055pt, 731.23584pt, 56.9055pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  483.69687pt
+\textheight 731.23584pt
+\oddsidemargin  -15.36449pt
+\evensidemargin -15.36449pt
+\topmargin  -52.36449pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 57.0pt
+\marginparsep   11.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -573,7 +572,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 30.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 62.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -582,40 +581,38 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 400.
+(Font)              <17.28> on input line 412.
  [5] [6] [7] (./document.aux) ) 
 Here is how much of TeX's memory you used:
- 2232 strings out of 494816
- 26341 string characters out of 3177879
- 86201 words of memory out of 3000000
- 5413 multiletter control sequences out of 15000+200000
+ 2123 strings out of 494818
+ 24521 string characters out of 1178665
+ 81793 words of memory out of 3000000
+ 5302 multiletter control sequences out of 15000+50000
  18783 words of font info for 43 fonts, out of 3000000 for 9000
- 198 hyphenation exceptions out of 8191
- 25i,6n,32p,867b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-
-t2a/lati1000.600pk> </home/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000
-.600pk> </home/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </ho
-me/msizov/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/msizov/.t
-exmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/msizov/.texmf-var/fon
-ts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/msizov/.texmf-var/fonts/pk/ljfour
-/lh/lh-t2a/larm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
-i12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmti7.pfb>
-Output written on document.pdf (7 pages, 249473 bytes).
+ 212 hyphenation exceptions out of 8191
+ 25i,6n,32p,867b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/keeper/.texmf-var/fonts/pk/ljfour/lh/lh-
+t2a/lati1000.600pk> </home/keeper/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000
+.600pk> </home/keeper/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </ho
+me/keeper/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/keeper/.t
+exmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/keeper/.texmf-var/fon
+ts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/keeper/.texmf-var/fonts/pk/ljfour
+/lh/lh-t2a/larm1728.600pk></usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr5.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmti7.pfb>
+Output written on document.pdf (7 pages, 276980 bytes).
 PDF statistics:
- 444 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 442 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
