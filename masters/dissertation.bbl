@@ -52,4 +52,13 @@
   знакам.
 \newblock 2008.
 
+\bibitem{pharmakinetics}
+\selectlanguageifdefined{russian}
+Fuite~J., Marsh~R.~E., Tuszynski~J.~A. ``An Application of Prony's Sum of
+  Exponentials Method to Pharmacokinetic Data Analysis.''~// Communications in
+  computational physics.
+\newblock 2007.
+\newblock Т.~2.
+\newblock {С.}~87--88.
+
 \end{thebibliography}
