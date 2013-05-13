@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.5.12)  13 MAY 2013 17:17
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.5.12)  13 MAY 2013 17:30
 entering extended mode
 **dissertation.tex
 (C:\Users\keeper\Documents\GitHub\Masters\masters\dissertation.tex
@@ -901,12 +901,10 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Try loading font information for T2A+ftm on input line 6.
-LaTeX Font Info:    No file T2Aftm.fd. on input line 6.
 
-
-LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 6.
-
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pscyr\t2aftm.fd"
+File: t2aftm.fd 2001/12/09 Fontinst v1.914 font definitions for T2A/ftm.
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count123
@@ -979,21 +977,14 @@ LaTeX Info: Redefining \nameref on input line 6.
 (C:\Users\keeper\Documents\GitHub\Masters\masters\names.tex)
 (C:\Users\keeper\Documents\GitHub\Masters\masters\title.tex [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
+{C:/Users/keeper/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 (C:\Users\keeper\Documents\GitHub\Masters\masters\contents.tex
-
-LaTeX Font Warning: Font shape `T2A/ftm/bx/n' undefined
-(Font)              using `T2A/ftm/m/n' instead on input line 1.
-
 (C:\Users\keeper\Documents\GitHub\Masters\masters\dissertation.toc
 LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
-LaTeX Font Info:    No file OT1ftm.fd. on input line 1.
 
-
-LaTeX Font Warning: Font shape `OT1/ftm/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 1.
-
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pscyr\ot1ftm.fd"
+File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -1023,12 +1014,7 @@ LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
 [5
 
 
-] [6]
-
-LaTeX Font Warning: Font shape `T2A/ftm/m/it' undefined
-(Font)              using `T2A/ftm/m/n' instead on input line 104.
-
-<images/muondensitometer.png, id=206, 666.49pt x 229.85875pt>
+] [6] <images/muondensitometer.png, id=204, 666.49pt x 229.85875pt>
 File: images/muondensitometer.png Graphic file (type png)
 
 <use images/muondensitometer.png>
@@ -1036,7 +1022,7 @@ Package pdftex.def Info: images/muondensitometer.png used on input line 138.
 (pdftex.def)             Requested size: 433.21336pt x 149.4064pt.
  [7 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/muondensitometer.p
 ng (PNG copy)>]
-<images/muondensitometer2.png, id=217, 1841.88126pt x 857.2025pt>
+<images/muondensitometer2.png, id=216, 1841.88126pt x 857.2025pt>
 File: images/muondensitometer2.png Graphic file (type png)
 
 <use images/muondensitometer2.png>
@@ -1060,8 +1046,8 @@ equation.2.4.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.273 \end{equation}
-                    ]
+l.256 \begin{equation}
+                      ]
 
 LaTeX Warning: Citation `kung' on page 14 undefined on input line 292.
 
@@ -1071,7 +1057,7 @@ LaTeX Warning: Citation `zeiger' on page 14 undefined on input line 292.
 
 LaTeX Warning: Citation `osborn' on page 14 undefined on input line 292.
 
-<images/greedy_schema.png, id=268, 557.08125pt x 1034.36438pt>
+<images/greedy_schema.png, id=267, 557.08125pt x 1034.36438pt>
 File: images/greedy_schema.png Graphic file (type png)
 
 <use images/greedy_schema.png>
@@ -1079,7 +1065,7 @@ Package pdftex.def Info: images/greedy_schema.png used on input line 309.
 (pdftex.def)             Requested size: 373.24251pt x 693.02055pt.
  [14] [15 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/greedy_schem
 a.png>]
-<images/generated_exp_data.png, id=284, 1445.4pt x 728.7225pt>
+<images/generated_exp_data.png, id=283, 1445.4pt x 728.7225pt>
 File: images/generated_exp_data.png Graphic file (type png)
 
 <use images/generated_exp_data.png>
@@ -1090,7 +1076,7 @@ Overfull \hbox (22.20071pt too wide) in paragraph at lines 328--329
  [] 
  []
 
-<images/combined_algorithm.png, id=287, 733.99219pt x 375.65344pt>
+<images/combined_algorithm.png, id=286, 733.99219pt x 375.65344pt>
 File: images/combined_algorithm.png Graphic file (type png)
 
 <use images/combined_algorithm.png>
@@ -1104,7 +1090,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 .png>] [17 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/combined_al
 gorithm.png>]) (C:\Users\keeper\Documents\GitHub\Masters\masters\part3.tex
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 3.
-<images/operator.png, id=299, 732.48656pt x 557.83406pt>
+<images/operator.png, id=298, 732.48656pt x 557.83406pt>
 File: images/operator.png Graphic file (type png)
 
 <use images/operator.png>
@@ -1114,7 +1100,7 @@ Package pdftex.def Info: images/operator.png used on input line 8.
 
 
  <C:/Users/keeper/Documents/GitHub/Masters/masters/images/operator.png>]
-<images/operator_results.png, id=306, 730.98094pt x 533.74406pt>
+<images/operator_results.png, id=305, 730.98094pt x 533.74406pt>
 File: images/operator_results.png Graphic file (type png)
 
 <use images/operator_results.png>
@@ -1152,33 +1138,32 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 20.
  ) 
 Here is how much of TeX's memory you used:
- 12964 strings out of 493921
- 181971 string characters out of 3144873
- 262191 words of memory out of 3000000
- 15913 multiletter control sequences out of 15000+200000
- 17460 words of font info for 55 fonts, out of 3000000 for 9000
+ 13010 strings out of 493921
+ 182703 string characters out of 3144873
+ 263239 words of memory out of 3000000
+ 15948 multiletter control sequences out of 15000+200000
+ 28311 words of font info for 69 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,16n,38p,2171b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\keeper\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\l
-arm1728.pk> <C:\Users\keeper\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a
-\dpi600\larm2488.pk> <C:\Users\keeper\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-unknown\unknown\dpi600\larm1200.pk> <C:\Users\keeper\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmti8.pfb>
-Output written on dissertation.pdf (21 pages, 1243360 bytes).
+ 38i,16n,38p,2171b,421s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/p
+scyr/times.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pscyr/time
+sbd.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pscyr/timesi.pfb>
+
+Output written on dissertation.pdf (21 pages, 1198192 bytes).
 PDF statistics:
- 668 PDF objects out of 1000 (max. 8388607)
+ 392 PDF objects out of 1000 (max. 8388607)
  79 named destinations out of 1000 (max. 500000)
  304 words of extra memory for PDF output out of 10000 (max. 10000000)
 
