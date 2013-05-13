@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.5.12)  13 MAY 2013 17:30
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.5.12)  13 MAY 2013 19:03
 entering extended mode
 **dissertation.tex
 (C:\Users\keeper\Documents\GitHub\Masters\masters\dissertation.tex
@@ -13,10 +13,19 @@ german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
-Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\extsizes\extreport.cls"
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\extsizes\size14.clo"
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\exscale.sty"
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen102
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -29,7 +38,7 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
-\bibindent=\dimen102
+\bibindent=\dimen103
 )
 (C:\Users\keeper\Documents\GitHub\Masters\masters\packages.tex
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
@@ -78,14 +87,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count89
 \Gm@cntv=\count90
 \c@Gm@tempcnt=\count91
-\Gm@bindingoffset=\dimen103
-\Gm@wd@mp=\dimen104
-\Gm@odd@mp=\dimen105
-\Gm@even@mp=\dimen106
-\Gm@layoutwidth=\dimen107
-\Gm@layoutheight=\dimen108
-\Gm@layouthoffset=\dimen109
-\Gm@layoutvoffset=\dimen110
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
 \Gm@dimlist=\toks15
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
@@ -527,7 +536,7 @@ Language: english 2005/03/30 v3.3o English support from the babel system
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count92
-\U@D=\dimen111
+\U@D=\dimen112
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
@@ -537,6 +546,9 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 Language: russianb 2008/03/21 v1.1r Russian support from the babel system
 Package babel Info: Making " an active character on input line 199.
 ))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pscyr\pscyr.sty"
+Package: pscyr 2002/07/04 v0.4d Cyrillic Type1 fonts as default
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
 Package: amsthm 2004/08/06 v2.20
 \thm@style=\toks18
@@ -568,11 +580,11 @@ Package: amstext 2000/06/29 v2.01
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks25
-\ex@=\dimen112
+\ex@=\dimen113
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen113
+\pmbraise@=\dimen114
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
@@ -589,7 +601,7 @@ LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
-\big@size=\dimen114
+\big@size=\dimen115
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count98
@@ -602,12 +614,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \column@=\count103
 \maxfields@=\count104
 \andhelp@=\toks27
-\eqnshift@=\dimen115
-\alignsep@=\dimen116
-\tagshift@=\dimen117
-\tagwidth@=\dimen118
-\totwidth@=\dimen119
-\lineht@=\dimen120
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
 \@envbody=\toks28
 \multlinegap=\skip47
 \multlinetaggap=\skip48
@@ -621,9 +633,9 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amscd.sty"
 Package: amscd 1999/11/29 v2.0
 \athelp@=\toks30
-\minaw@=\dimen121
-\bigaw@=\dimen122
-\minCDarrowwidth=\dimen123
+\minaw@=\dimen122
+\bigaw@=\dimen123
+\minCDarrowwidth=\dimen124
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
@@ -641,8 +653,8 @@ Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen124
-\extrarowheight=\dimen125
+\col@sep=\dimen125
+\extrarowheight=\dimen126
 \NC@list=\toks31
 \extratabsurround=\skip49
 \backup@length=\skip50
@@ -657,7 +669,7 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTpre=\skip54
 \LTpost=\skip55
 \LTchunksize=\count105
-\LTcapwidth=\dimen126
+\LTcapwidth=\dimen127
 \LT@head=\box28
 \LT@firsthead=\box29
 \LT@foot=\box30
@@ -669,11 +681,11 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LT@p@ftn=\toks33
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
-\bigstrutjot=\dimen127
+\bigstrutjot=\dimen128
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\makecell\makecell.sty"
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen128
+\rotheadsize=\dimen129
 \c@nlinenum=\count110
 \TeXr@lab=\toks34
 )
@@ -682,13 +694,13 @@ Package: caption 2013/04/14 v3.3-73 Customizing captions (AR)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2013/04/14 v1.5-71 caption3 kernel (AR)
-\captionmargin=\dimen129
-\captionmargin@=\dimen130
-\captionwidth=\dimen131
-\caption@tempdima=\dimen132
-\caption@indent=\dimen133
-\caption@parindent=\dimen134
-\caption@hangindent=\dimen135
+\captionmargin=\dimen130
+\captionmargin@=\dimen131
+\captionwidth=\dimen132
+\caption@tempdima=\dimen133
+\caption@indent=\dimen134
+\caption@parindent=\dimen135
+\caption@hangindent=\dimen136
 )
 \c@ContinuedFloat=\count111
 Package caption Info: longtable package is loaded.
@@ -704,9 +716,9 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@buffer=\toks38
 \SOUL@token=\toks39
 \SOUL@spaceskip=\skip56
-\SOUL@ttwidth=\dimen136
-\SOUL@uldp=\dimen137
-\SOUL@ulht=\dimen138
+\SOUL@ttwidth=\dimen137
+\SOUL@uldp=\dimen138
+\SOUL@ulht=\dimen139
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
@@ -765,7 +777,7 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen139
+\@linkdim=\dimen140
 \Hy@linkcounter=\count112
 \Hy@pagecounter=\count113
 
@@ -802,10 +814,10 @@ Package hyperref Info: Bookmarks ON on input line 4688.
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen140
+\XeTeXLinkMargin=\dimen141
 \Fld@menulength=\count116
-\Field@Width=\dimen141
-\Fld@charsize=\dimen142
+\Field@Width=\dimen142
+\Fld@charsize=\dimen143
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -835,8 +847,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen143
-\Gin@req@width=\dimen144
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
@@ -908,13 +920,13 @@ File: t2aftm.fd 2001/12/09 Fontinst v1.914 font definitions for T2A/ftm.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count123
-\scratchdimen=\dimen145
+\scratchdimen=\dimen146
 \scratchbox=\box32
 \nofMPsegments=\count124
 \nofMParguments=\count125
 \everyMPshowfont=\toks40
 \MPscratchCnt=\count126
-\MPscratchDim=\dimen146
+\MPscratchDim=\dimen147
 \MPnumerator=\count127
 \makeMPintoPDFobject=\count128
 \everyMPtoPDFconversion=\toks41
@@ -935,15 +947,15 @@ File: t2aftm.fd 2001/12/09 Fontinst v1.914 font definitions for T2A/ftm.
 * \textheight=731.23584pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=-52.36449pt
-* \headheight=12.0pt
+* \topmargin=-54.36449pt
+* \headheight=14.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=14.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=15.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -994,10 +1006,13 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [2])
 \tf@toc=\write4
- [2])
-(C:\Users\keeper\Documents\GitHub\Masters\masters\introduction.tex
+ [3])
+(C:\Users\keeper\Documents\GitHub\Masters\masters\introduction.tex [4
+
+
+]
 LaTeX Font Info:    Try loading font information for OMS+ftm on input line 45.
 LaTeX Font Info:    No file OMSftm.fd. on input line 45.
 
@@ -1006,66 +1021,82 @@ LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 45.
 
-[3
-
-
-] [4]) (C:\Users\keeper\Documents\GitHub\Masters\masters\part1.tex
+[5] [6]) (C:\Users\keeper\Documents\GitHub\Masters\masters\part1.tex
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 1.
-[5
+[7
 
 
-] [6] <images/muondensitometer.png, id=204, 666.49pt x 229.85875pt>
+] [8] [9] [10] <images/muondensitometer.png, id=227, 666.49pt x 229.85875pt>
 File: images/muondensitometer.png Graphic file (type png)
 
 <use images/muondensitometer.png>
 Package pdftex.def Info: images/muondensitometer.png used on input line 138.
 (pdftex.def)             Requested size: 433.21336pt x 149.4064pt.
- [7 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/muondensitometer.p
-ng (PNG copy)>]
-<images/muondensitometer2.png, id=216, 1841.88126pt x 857.2025pt>
+ [11 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/muondensitometer.
+png (PNG copy)>]
+<images/muondensitometer2.png, id=237, 1841.88126pt x 857.2025pt>
 File: images/muondensitometer2.png Graphic file (type png)
 
 <use images/muondensitometer2.png>
 Package pdftex.def Info: images/muondensitometer2.png used on input line 181.
 (pdftex.def)             Requested size: 460.4692pt x 214.3001pt.
- [8 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/muondensitometer2.
-png (PNG copy)>] [9])
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12] [13 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/muondensitome
+ter2.png (PNG copy)>])
 (C:\Users\keeper\Documents\GitHub\Masters\masters\part2.tex
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 2.
-[10
+[14
 
 
-]
+] [15]
 
 Package amsmath Warning: Foreign command \atop;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 116.
 
-[11] [12] [13pdfTeX warning (ext4): destination with the same identifier (name{
-equation.2.4.3}) has been already used, duplicate ignored
+[16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+[]\T2A/ftm/bx/n/20.74 Алгоритмы экс-тра-по-ля-ции та-ри-ро-воч-ной
+ []
+
+[18] [19pdfTeX warning (ext4): destination with the same identifier (name{equat
+ion.2.4.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.256 \begin{equation}
-                      ]
+l.261 \end{equation}
+                    ]
 
-LaTeX Warning: Citation `kung' on page 14 undefined on input line 292.
-
-
-LaTeX Warning: Citation `zeiger' on page 14 undefined on input line 292.
+LaTeX Warning: Citation `kung' on page 20 undefined on input line 292.
 
 
-LaTeX Warning: Citation `osborn' on page 14 undefined on input line 292.
+LaTeX Warning: Citation `zeiger' on page 20 undefined on input line 292.
 
-<images/greedy_schema.png, id=267, 557.08125pt x 1034.36438pt>
+
+LaTeX Warning: Citation `osborn' on page 20 undefined on input line 292.
+
+[20] <images/greedy_schema.png, id=303, 557.08125pt x 1034.36438pt>
 File: images/greedy_schema.png Graphic file (type png)
 
 <use images/greedy_schema.png>
 Package pdftex.def Info: images/greedy_schema.png used on input line 309.
 (pdftex.def)             Requested size: 373.24251pt x 693.02055pt.
- [14] [15 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/greedy_schem
-a.png>]
-<images/generated_exp_data.png, id=283, 1445.4pt x 728.7225pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+[]\T2A/ftm/m/n/14.4 Исследованные ал-го-рит-мы бы-ли ре-а-ли-зо-ва-ны на язы-ка
+х octave
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 322--323
+\T2A/ftm/m/n/14.4 (Левенберг-Марквардт, Про-ни), python(Численный пе-ре-бор па-
+ра-мет-ров),
+ []
+
+<images/generated_exp_data.png, id=306, 1445.4pt x 728.7225pt>
 File: images/generated_exp_data.png Graphic file (type png)
 
 <use images/generated_exp_data.png>
@@ -1076,39 +1107,52 @@ Overfull \hbox (22.20071pt too wide) in paragraph at lines 328--329
  [] 
  []
 
-<images/combined_algorithm.png, id=286, 733.99219pt x 375.65344pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21] [22 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/greedy_schema
+.png>] <images/combined_algorithm.png, id=320, 733.99219pt x 375.65344pt>
 File: images/combined_algorithm.png Graphic file (type png)
 
 <use images/combined_algorithm.png>
 Package pdftex.def Info: images/combined_algorithm.png used on input line 346.
 (pdftex.def)             Requested size: 477.08926pt x 244.17183pt.
+ [23 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/generated_exp_dat
+a.png>]
+Underfull \hbox (badness 1107) in paragraph at lines 353--353
+[]\T2A/ftm/bx/n/20.74 Архитектура си-сте-мы ав-то-ма-ти-за-ции об-ра-
+ []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[16 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/generated_exp_data
-.png>] [17 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/combined_al
-gorithm.png>]) (C:\Users\keeper\Documents\GitHub\Masters\masters\part3.tex
+[24 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/combined_algorithm
+.png>]) (C:\Users\keeper\Documents\GitHub\Masters\masters\part3.tex
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 3.
-<images/operator.png, id=298, 732.48656pt x 557.83406pt>
+<images/operator.png, id=331, 732.48656pt x 557.83406pt>
 File: images/operator.png Graphic file (type png)
 
 <use images/operator.png>
 Package pdftex.def Info: images/operator.png used on input line 8.
-(pdftex.def)             Requested size: 322.29507pt x 245.44774pt.
- [18
+(pdftex.def)             Requested size: 256.37413pt x 195.24484pt.
 
 
- <C:/Users/keeper/Documents/GitHub/Masters/masters/images/operator.png>]
-<images/operator_results.png, id=305, 730.98094pt x 533.74406pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25
+
+
+] <images/operator_results.png, id=339, 730.98094pt x 533.74406pt>
 File: images/operator_results.png Graphic file (type png)
 
 <use images/operator_results.png>
 Package pdftex.def Info: images/operator_results.png used on input line 22.
-(pdftex.def)             Requested size: 292.38719pt x 213.49384pt.
- [19 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/operator_results.
-png>])
-(C:\Users\keeper\Documents\GitHub\Masters\masters\conclusion.tex [20
+(pdftex.def)             Requested size: 255.84715pt x 186.81322pt.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 31.
+
+[26 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/operator.png> <C:/
+Users/keeper/Documents/GitHub/Masters/masters/images/operator_results.png>]
+[27]) (C:\Users\keeper\Documents\GitHub\Masters\masters\conclusion.tex [28
 
 
 ])
@@ -1117,7 +1161,7 @@ png>])
 (C:\Users\keeper\Documents\GitHub\Masters\masters\dissertation.bbl))
 (C:\Users\keeper\Documents\GitHub\Masters\masters\appendix.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 20.
- [21
+ [29
 
 
 ]
@@ -1127,7 +1171,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 20.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 20.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 20.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: AE5E29361F8F8CE74570D04B23764107;9463.
+(rerunfilecheck)             Checksum: B5735FF74D3B86CD0071338FB4B4DB94;9852.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1138,32 +1182,31 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 20.
  ) 
 Here is how much of TeX's memory you used:
- 13010 strings out of 493921
- 182703 string characters out of 3144873
- 263239 words of memory out of 3000000
- 15948 multiletter control sequences out of 15000+200000
- 28311 words of font info for 69 fonts, out of 3000000 for 9000
+ 13137 strings out of 493921
+ 185931 string characters out of 3144873
+ 263215 words of memory out of 3000000
+ 16064 multiletter control sequences out of 15000+200000
+ 27730 words of font info for 64 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,16n,38p,2171b,421s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,16n,38p,2171b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/p
-scyr/times.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pscyr/time
-sbd.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pscyr/timesi.pfb>
-
-Output written on dissertation.pdf (21 pages, 1198192 bytes).
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/pscyr/times.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pscy
+r/timesbd.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pscyr/times
+i.pfb>
+Output written on dissertation.pdf (29 pages, 1200358 bytes).
 PDF statistics:
- 392 PDF objects out of 1000 (max. 8388607)
- 79 named destinations out of 1000 (max. 500000)
- 304 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 427 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 312 words of extra memory for PDF output out of 10000 (max. 10000000)
 
