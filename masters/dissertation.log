@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.5.12)  13 MAY 2013 00:40
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.5.12)  13 MAY 2013 16:36
 entering extended mode
 **dissertation.tex
 (C:\Users\keeper\Documents\GitHub\Masters\masters\dissertation.tex
@@ -1023,18 +1023,12 @@ LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
 [5
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 48--54
-[]\T2A/ftm/bx/n/12 ћетод аль-бе-до за-клю-ча-ет-с€ в ре-ги-стра-ции плот-но-сти
- по-то-ка гамма-
- []
-
-[6]
+] [6]
 
 LaTeX Font Warning: Font shape `T2A/ftm/m/it' undefined
 (Font)              using `T2A/ftm/m/n' instead on input line 104.
 
-<images/muondensitometer.png, id=181, 666.49pt x 229.85875pt>
+<images/muondensitometer.png, id=206, 666.49pt x 229.85875pt>
 File: images/muondensitometer.png Graphic file (type png)
 
 <use images/muondensitometer.png>
@@ -1042,7 +1036,7 @@ Package pdftex.def Info: images/muondensitometer.png used on input line 138.
 (pdftex.def)             Requested size: 433.21336pt x 149.4064pt.
  [7 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/muondensitometer.p
 ng (PNG copy)>]
-<images/muondensitometer2.png, id=192, 1841.88126pt x 857.2025pt>
+<images/muondensitometer2.png, id=217, 1841.88126pt x 857.2025pt>
 File: images/muondensitometer2.png Graphic file (type png)
 
 <use images/muondensitometer2.png>
@@ -1059,38 +1053,76 @@ png (PNG copy)>] [9])
 
 Package amsmath Warning: Foreign command \atop;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 117.
+(amsmath)                 on input line 116.
 
 [11] [12] [13pdfTeX warning (ext4): destination with the same identifier (name{
 equation.2.4.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.291 
-      ]
+l.273 \end{equation}
+                    ]
 
-LaTeX Warning: Citation `kung' on page 14 undefined on input line 293.
-
-
-LaTeX Warning: Citation `zeiger' on page 14 undefined on input line 293.
+LaTeX Warning: Citation `kung' on page 14 undefined on input line 292.
 
 
-LaTeX Warning: Citation `osborn' on page 14 undefined on input line 293.
+LaTeX Warning: Citation `zeiger' on page 14 undefined on input line 292.
 
-<images/greedy_schema.png, id=246, 557.08125pt x 1034.36438pt>
+
+LaTeX Warning: Citation `osborn' on page 14 undefined on input line 292.
+
+<images/greedy_schema.png, id=268, 557.08125pt x 1034.36438pt>
 File: images/greedy_schema.png Graphic file (type png)
 
 <use images/greedy_schema.png>
-Package pdftex.def Info: images/greedy_schema.png used on input line 310.
+Package pdftex.def Info: images/greedy_schema.png used on input line 309.
 (pdftex.def)             Requested size: 373.24251pt x 693.02055pt.
  [14] [15 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/greedy_schem
-a.png>])
-(C:\Users\keeper\Documents\GitHub\Masters\masters\part3.tex
+a.png>]
+<images/generated_exp_data.png, id=284, 1445.4pt x 728.7225pt>
+File: images/generated_exp_data.png Graphic file (type png)
+
+<use images/generated_exp_data.png>
+Package pdftex.def Info: images/generated_exp_data.png used on input line 326.
+(pdftex.def)             Requested size: 505.89758pt x 255.05669pt.
+
+Overfull \hbox (22.20071pt too wide) in paragraph at lines 326--327
+ [] 
+ []
+
+<images/combined_algorithm.png, id=287, 733.99219pt x 375.65344pt>
+File: images/combined_algorithm.png Graphic file (type png)
+
+<use images/combined_algorithm.png>
+Package pdftex.def Info: images/combined_algorithm.png used on input line 344.
+(pdftex.def)             Requested size: 477.08926pt x 244.17183pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/generated_exp_data
+.png>] [17 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/combined_al
+gorithm.png>]) (C:\Users\keeper\Documents\GitHub\Masters\masters\part3.tex
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 3.
-[16
+<images/operator.png, id=299, 732.48656pt x 557.83406pt>
+File: images/operator.png Graphic file (type png)
+
+<use images/operator.png>
+Package pdftex.def Info: images/operator.png used on input line 8.
+(pdftex.def)             Requested size: 322.29507pt x 245.44774pt.
+ [18
 
 
-]) (C:\Users\keeper\Documents\GitHub\Masters\masters\conclusion.tex [17
+ <C:/Users/keeper/Documents/GitHub/Masters/masters/images/operator.png>]
+<images/operator_results.png, id=306, 730.98094pt x 533.74406pt>
+File: images/operator_results.png Graphic file (type png)
+
+<use images/operator_results.png>
+Package pdftex.def Info: images/operator_results.png used on input line 22.
+(pdftex.def)             Requested size: 292.38719pt x 213.49384pt.
+ [19 <C:/Users/keeper/Documents/GitHub/Masters/masters/images/operator_results.
+png>])
+(C:\Users\keeper\Documents\GitHub\Masters\masters\conclusion.tex [20
 
 
 ])
@@ -1099,7 +1131,7 @@ a.png>])
 (C:\Users\keeper\Documents\GitHub\Masters\masters\dissertation.bbl))
 (C:\Users\keeper\Documents\GitHub\Masters\masters\appendix.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 20.
- [18
+ [21
 
 
 ]
@@ -1109,7 +1141,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 20.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 20.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 20.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: E0DC543C7B77ADC70742E5E9DAB7FB49;7782.
+(rerunfilecheck)             Checksum: AE5E29361F8F8CE74570D04B23764107;9463.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1120,13 +1152,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 20.
  ) 
 Here is how much of TeX's memory you used:
- 12926 strings out of 493921
- 181101 string characters out of 3144873
- 262730 words of memory out of 3000000
- 15890 multiletter control sequences out of 15000+200000
+ 12964 strings out of 493921
+ 181971 string characters out of 3144873
+ 262183 words of memory out of 3000000
+ 15913 multiletter control sequences out of 15000+200000
  17460 words of font info for 55 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,16n,38p,1839b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,16n,38p,2171b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\keeper\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\l
 arm1728.pk> <C:\Users\keeper\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a
 \dpi600\larm2488.pk> <C:\Users\keeper\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
@@ -1144,9 +1176,9 @@ nts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmti8.pfb>
-Output written on dissertation.pdf (18 pages, 1010155 bytes).
+Output written on dissertation.pdf (21 pages, 1243356 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
- 68 named destinations out of 1000 (max. 500000)
- 244 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 668 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
+ 304 words of extra memory for PDF output out of 10000 (max. 10000000)
 
