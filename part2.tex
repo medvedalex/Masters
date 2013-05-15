@@ -333,35 +333,29 @@ F(x) = \frac{1}{2} \displaystyle \sum_{i=1}^N \phi_i(x)^2
 \begin{enumerate}
  \item Задается начальное приближение $\vec{x_0}$ и точность рассчета $\epsilon$
  \item Рассчитывается $ \vec{x_{i+1}} =  \vec{x_{i}} - \gamma \nabla F(\vec{x_{i}}) $
- \item Проверяются условия $\left| \vec{x_{i+1} - \vec{x_{i} \right| > \epsilon, \
- \left| F(\vec{x_{i+1}) - F(\vec{x_{i}) \right| > \epsilon $ если условия верны, то $i = i + 1$ 
- и выполняется шаг 2, иначе итоговый вектор $ \vec{x} = \vec{x_{i+1}} $
+ \item Проверяются условия $\left| \vec{x_{i+1}} - \vec{x_{i}} \right| > \epsilon, \left| F(\vec{x_{i+1}}) - F(\vec{x_{i}}) \right| > \epsilon $ если условия верны, то $i = i + 1$ 
+ и выполняется шаг 2, иначе итоговый вектор $ \vec{x} = \vec{x_{i+1}} $.
 \end{enumerate}
-
-
 %особый вид матрицы Гессе
-Обозначим через $J(x) m \multiply n$-матрицу Якоби для $f(x)$ и пусть $G_i(x)$ --- 
+Обозначим через $J(x) m \times n$-матрицу Якоби для $f(x)$ и пусть $G_i(x)$ --- 
 матрица Гессе для $f_i(x)$. Тогда выражения для градиента $g(x)$ и матрицы Гессе $G(x)$ функции
 (\ref{eq:square_minimum}) будут выглядеть следующим образом :
 \begin{equation}
-\label{eq:levenberg_gesse}
- g(x) = J(x)^T f(x);
- G(x) = J(x)^T J(x) + \displaystyle \sum_{i=1}^M f_i(x) G_i(x).
+\begin{split}
+ g(x) &= J(x)^T f(x); \\
+ G(x) &= J(x)^T J(x) + \displaystyle \sum_{i=1}^M f_i(x) G_i(x).
+\end{split}
+ \label{eq:levenberg_gesse}
 \end{equation}
-
 % Отсюда видно, что элементы $G(x)$  образованы комбинациями первых и вторых 
 %производных функций $f_i$
-
 %todo ньютоновская система
 Обозначим через $x_k$ текущую оценку решения задачи минимизации функции (\ref{eq:square_minimum})
 тогда ньютоновская система в силу (\ref{eq:levenberg_gesse}) примет вид
-
 \begin{equation}
- (J^T_k J_k + Q_k) p_k = -J^T_k f_k
+ \left(J^T_k J_k + Q_k\right) p_k = -J^T_k f_k
 \end{equation}
-Её решением будет вектор $p_N$ --- ньютоновское направление. 
-
-в случае алгоритма Ньютона-Гаусса оно аппроксимируется  решением системы 
+Её решением будет вектор $p_N$ --- ньютоновское направление. В случае алгоритма Ньютона-Гаусса оно аппроксимируется  решением системы 
 \begin{equation}
  (J^T_k J_k ) p_k = -J^T_k f_k
 \end{equation}
