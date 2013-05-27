@@ -27,7 +27,17 @@
     citecolor={citecolor}, urlcolor={urlcolor}
 }
 
+%таблицы
+\pgfkeys{/pgf/number format/.cd,precision=2,use comma,fixed,1000 sep={}}
+\usetikzlibrary{positioning,arrows}
 
+\tikzstyle{algorithm} = [rectangle,
+                      thick,
+                      minimum size=1cm,
+                      draw=red!50!black!50,
+                      top color=white,
+                      bottom color=red!50!black!20,
+                      font=\itshape]
 
 %%% Оглавление %%%
 \renewcommand{\cftchapdotsep}{\cftdotsep}
