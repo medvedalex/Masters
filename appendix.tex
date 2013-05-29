@@ -1,8 +1,43 @@
-%\appendix
-%\chapter{Приложение А}
+\appendix
+\chapter*{Приложение А}
+\addcontentsline{toc}{chapter}{Приложение А}
+
+Пример сгенерированного кода на octave:
+\linespread{1} % вернем временно единичный межстрочный интервал
+\lstinputlisting{octave.m}
+\begin{figure}[ht]
+  \begin{adjustbox}{addcode={\begin{minipage}{\width}}{\caption{%
+      Блок-схема подстройки параметров жадного алгоритма ч.1
+      } \end{minipage}},rotate=270,center}
+
+  \includegraphics [scale=0.75] {Block-Schema1} 
+  \end{adjustbox}
+\end{figure}
 
 
+\begin{figure}[t]
+  \begin{adjustbox}{addcode={\begin{minipage}{\width}}{\caption{%
+      Блок-схема подстройки параметров жадного алгоритма ч.2
+      } \end{minipage}},rotate=270,center}
 
+  \includegraphics [scale=0.75] {Block-Schema2} 
+  \end{adjustbox}
+\end{figure}
+\begin{figure}[t]
+  \begin{adjustbox}{addcode={\begin{minipage}{\width}}{\caption{%
+      Блок-схема подстройки параметров жадного алгоритма ч.3
+      } \end{minipage}},rotate=270,center}
+
+  \includegraphics [scale=0.75] {Block-Schema3} 
+  \end{adjustbox}
+\end{figure}
+
+\lstset{ %
+  language=C++
+}
+
+Часть динамической библиотеки, отвечающей за связывание кода написанного на языках octave и LabVIEW:
+\lstinputlisting{dll_combined.cpp}
 %
 %Некоторый текст.
 %
