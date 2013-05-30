@@ -42,8 +42,6 @@ float64 approximationError(float64* parameters, int32 length, float64* x, float6
 	}
 	return sum * 10000/dataLength;
 }
-
-_declspec(dllexport) void ImportClusterArray(TD2 *input, TD2 *output, long *arraylength, long *i1, long *i2, LStrHandle LVString);
  
 _declspec(dllexport) void CombinedAlgorithm(TD2 *XYData, TD2 *parameters, float64 *error, TD2 *XY, LStrHandle LVString)
 {
@@ -81,13 +79,15 @@ _declspec(dllexport) void CombinedAlgorithm(TD2 *XYData, TD2 *parameters, float6
 	octaveLaunchInterpreter(filename, data_filename);
 	octaveParseResults(leisMMValues, paramsLen);
 
-	float64* minimum = approximationErrorMinimum(meshValues,greedValues,leisGValues,leisGMValues,leisMValues,leisMMValues);
+	float64* minimum = approximationErrorMinimum(meshValues,greedValues,leisGValues,leisGMValues,leisMValues,leisMMValues, paramsLen);
 
 	for (int32 = 0 ; i < paramsLen / 2 ; i ++ )
 	{
 		parameters->elt1.data[i] = minimum[i*2];
 		parameters->elt2.data[i] = minimum[i*2+1];
 	}
+	
+	*error=approximationError(minimum, paramsLen, XY->elt1.data, XY->elt2.data,XY->elt1.dimSize);
 
 	delete[] meshValues;
 	delete[] greedValues;
