@@ -483,7 +483,7 @@ every last column/.style={ column type/.add={}{|}}
  эти параметры возвращаются в качестве результата работы алгоритма  (рис. \ref{img:combined_algorithm}).
 \begin{figure} [h]
 \begin{tikzpicture}[thick, node distance=2.7cm, text height=1.5ex, text depth=.25ex, auto]
-\node[algorithm] (data) {Данные};
+\node[datum] (data) {Данные};
 \node[algorithm,below right of=data] (levenbergm)  {LMM};
 \node[algorithm,right of=levenbergm]  (greedy) {GD};
 \node[algorithm,right of=greedy] (levenberg) {LM};
@@ -491,25 +491,56 @@ every last column/.style={ column type/.add={}{|}}
 \node[algorithm,left of=levenberg2]  (count) {MSH};
 \node[algorithm,left of=count] (levenbergm2)  {LMM};
 \node[algorithm,below left of=levenbergm]   (minimum) {Минимум};
+\node[datum,below of=minimum]   (result){Результат};
 
-\path[->,draw] (data) -- +(1,0) -| (greedy);
-\path[->,draw] (data) -- +(-1,0) -| (count);
-\path[->] (greedy) edge node {}(levenbergm);
-\path[->] (greedy)  edge node {} (levenberg);
-\path[->] (count) edge node {} (levenberg2);
-\path[->] (count) edge node {} (levenbergm2);
-\path[->,draw] (data)-- +(4.59,0) -- (levenberg);
-\path[->,draw] (data)-- +(4.59,0) -- (levenbergm);
-\path[->,draw] (data)-- +(-4.59,0) -- (levenberg2);
-\path[->,draw] (data)-- +(-4.59,0) -- (levenbergm2);
-\path[->] (greedy)  edge node {} (minimum);
-\path[->] (count) edge node {} (minimum);
-\path[->,draw] (levenberg) -- +(-2.8,-1.899) --  (minimum);
-\path[->] (levenberg2) edge node {} (minimum);
-\path[->] (levenbergm) edge node {} (minimum);
-\path[->,draw] (levenbergm2) -- +(2.8,-1.899) --  (minimum);
-\path[->,draw] (minimum) -- +(0, -1.5);
+\path[->,draw,>=latex',line width=3pt] (data) -- +(1,0) -| (greedy);
+\path[->,draw,>=latex',line width=3pt] (data) -- +(-1,0) -| (count);
+\path[->,>=latex',line width=3pt] (greedy) edge node {}(levenbergm);
+\path[->,>=latex',line width=3pt] (greedy)  edge node {} (levenberg);
+\path[->,>=latex',line width=3pt] (count) edge node {} (levenberg2);
+\path[->,>=latex',line width=3pt] (count) edge node {} (levenbergm2);
+\path[->,draw,>=latex',line width=3pt] (data)-- +(4.59,0) -- (levenberg);
+\path[->,draw,>=latex',line width=3pt] (data)-- +(4.59,0) -- (levenbergm);
+\path[->,draw,>=latex',line width=3pt] (data)-- +(-4.59,0) -- (levenberg2);
+\path[->,draw,>=latex',line width=3pt] (data)-- +(-4.59,0) -- (levenbergm2);
+\path[->,>=latex',line width=3pt] (greedy)  edge node {} (minimum);
+\path[->,>=latex',line width=3pt] (count) edge node {} (minimum);
+\path[->,draw,>=latex',line width=3pt] (levenberg) -- +(-2.8,-1.899) --  (minimum);
+\path[->,>=latex',line width=3pt] (levenberg2) edge node {} (minimum);
+\path[->,>=latex',line width=3pt] (levenbergm) edge node {} (minimum);
+\path[->,draw,>=latex',line width=3pt] (levenbergm2) -- +(2.8,-1.899) --  (minimum);
+\path[->,draw,>=latex',line width=3pt] (minimum) -- +(0, -0.5) -- (result);
 
+\end{tikzpicture}
+\center
+\caption{Схема комбинированного алгоритма} 
+\label{img:combined_algorithm} 
+\end{figure}
+
+\begin{figure} [h]
+\begin{tikzpicture}[thick, node distance=2.7cm, text height=1.5ex, text depth=.25ex, auto]
+\node[datum] (data) {Данные тарировки};
+\node[algorithm,below of=data] (alg)  {Комбинированный алгоритм};
+\node[datum,below of=alg]  (curve) {Тарировочная кривая};
+\node[algorithm,left=4cm of alg] (interface) {Интерфейс оператора};
+\node[datum,below of=interface] (data2) {Данные измерения};
+\node[datum,below of=data2] (xo) {Радиационная длина};
+\node[datum,below of=xo] (moisture) {Влажность};
+\node[datum, below of=curve]   (density) {Плотность};
+
+\path[->,>=latex',line width=3.5pt] (interface) edge node {} (data);
+\path[->,>=latex',line width=3.5pt] (interface) edge node {} (alg);
+\path[->,>=latex',line width=3.5pt] (curve) edge node {} (interface);
+\path[->,draw,>=latex',line width=3.5pt] (interface) -- +(-3.5,-0) -- +(-3.5,-2.8) -- (data2);
+\path[->,draw,>=latex',line width=3.5pt] (interface) -- +(-3.5,-0) -- +(-3.5,-5.4) -- (xo);
+\path[->,draw,>=latex',line width=3.5pt] (interface) -- +(-3.5,-0) -- +(-3.5,-8.1) -- (moisture);
+\path[->,>=latex',line width=3.5pt] (data) edge node {} (alg);
+\path[->,>=latex',line width=3.5pt] (alg) edge node {} (curve);
+
+\path[->,>=latex',line width=3.5pt] (xo) edge node {} (density);
+\path[->,draw,>=latex',line width=3.5pt] (data2) -- (density); %-- +(3.5,0) -- +(3.5,-2.3) -- +(8, -2.3) 
+\path[->,draw,>=latex',line width=3.5pt] (moisture)  -- (density); %-- +(3.5,0) -- +(3.5,2.3) -- +(8, 2.3)
+\path[->,>=latex',line width=3.5pt] (curve) edge node {} (density);
 \end{tikzpicture}
 \center
 \caption{Схема комбинированного алгоритма} 
